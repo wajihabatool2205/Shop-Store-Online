@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Boutique",
+  "description": "A clean, minimalist shop landing page featuring a product catalog and an AI-powered shopping assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
